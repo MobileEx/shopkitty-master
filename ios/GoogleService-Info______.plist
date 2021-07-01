@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>354577402288-jq9a6o63gg6nn380r2mcevkge4h4upvp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.354577402288-jq9a6o63gg6nn380r2mcevkge4h4upvp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXTbNx0kKSImGe0d404hfFOPiOez9A7m8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>354577402288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.shopkittyApp</string>
+	<key>PROJECT_ID</key>
+	<string>shopkittytest</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopkittytest.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:354577402288:ios:2b826e9448e304b7e16e75</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopkittytest.firebaseio.com</string>
+</dict>
+</plist>
